@@ -1,0 +1,144 @@
+body{
+    background-color: #1b3c3e;
+}
+.container-fluid{
+
+}
+.container-row{
+
+}
+
+.col-lg-2{
+    float: right;
+    text-align: right;
+    padding-left: -5px;
+    margin-right: 2px;
+    padding-top: 5px;
+    border-color: black;
+    border-radius: 21px;
+    background-color: #56c0e0;
+    box-shadow: 0 0 0 5px #796c6c;
+    padding-left: 15px;
+    padding-bottom: 25%;
+}
+
+.row-r{
+    margin-right: -493px;
+    border-radius: 19px;
+    /* border-color: bisque; */
+    margin-left: -38%;
+    margin-top: 20%;
+    background-color: white;
+    margin-bottom: 5%;
+    padding-bottom: 20%;
+    box-shadow: 0 0 0 6px #876e6e;
+    padding-bottom: 0px;
+}
+.size-bord{
+
+}
+
+.img{
+
+}
+.List-a{
+    background-color: #56c0e0;
+    background-color: #56c0e0;
+    border-color: #56c0e0;
+
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 53px;
+    margin-right: 47px;
+}
+
+.text-line{
+    background-color: #56c0e0;
+    border-color: #56c0e0;
+    font-size: 34px;
+    color: black;
+    font-family: dinarabic;
+    margin-right: 54px;
+}
+
+.list-access{
+    background-color: #56c0e0;
+    border-color: #56c0e0;
+    font-size: 34px;
+    color: #f6f4f4;
+    font-family: dinarabic;
+}
+
+.active-l{
+    border-color: black;
+    box-shadow: 0 0 3px 2px black;
+}
+.col-lg-10{
+    border-radius: 11px;
+    background-color: white;
+    text-align: center;
+
+    margin-top: -32px;
+    box-shadow: 3px 0 0 2px #796c6c;
+}
+
+.hr-line{
+    box-shadow: 0 0 3px 1px black;
+    margin-right: -13px;
+}
+
+.row-pane{
+    margin-top: 20px;
+    padding-bottom: 20px;
+
+}
+.well{
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col-md-11{
+    left: 9%;
+}
+.cent{
+    background-color: #6c757d2e;
+    margin-right: -16px;
+    margin-left: -24px;
+    border-radius: 11px;
+
+}
+
+.table-list{
+    background-color: #e4e3e31c;
+    margin-top: 7px;
+    width: 100%;
+    margin: 0 0 0 -23px;
+    text-align: right;
+}
+.table-list .table-tr .table-th{
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.table-tr{
+
+}
+.table-list .table-t .table-td{
+    padding: 22px 16px 12px 11px;
+    border-top: 38px solid #6c757d2e;
+}
+.table-t{
+    box-shadow: -45px 0px 0px -19px white;
+    border-radius: 45px;
+    background-color: white;
+
+}
+
+.amg-t{
+    width: 92px;
+    height: 86px;
+}
+
+.icons{
+    margin-left: 12px;
+    color: black;
+}
